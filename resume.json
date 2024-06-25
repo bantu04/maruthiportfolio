@@ -1,0 +1,167 @@
+{
+    "personal_info": {
+        "name": "Maruthi Prasad Bantu",
+        "email": "bantumaruthiprasad@gmail.com",
+        "phone": "+44 7879590116",
+        "location": "Oxford, UK",
+        "linkedin": "https://www.linkedin.com/in/maruthi-prasad-bantu-48b290184/"
+    },
+    "greetings": [
+        "Hello! How can I assist you today?",
+        "Hi there! What would you like to know about me?",
+        "Hey! How can I help you today?",
+        "Hi! How can I assist you?",
+        "Hello! How can I help you?",
+        "Hey! What can I do for you today?",
+        "Hello! Feel free to ask me anything."
+    ],
+    "fallback": [
+        "I'm sorry, I don't have an answer for that. Could you ask something else?",
+        "I don't have that information right now. Maybe try a different question?",
+        "I'm not sure about that. Can you ask me something else?"
+    ],
+    "about_me": [
+        "I'm Maruthi Prasad Bantu, a graduate with a Master's in Automotive Engineering with Electric Vehicles from Oxford Brookes University and a Bachelor's in Mechanical Engineering from MLR Institute of Technology.",
+        "I hold a Master's degree in Automotive Engineering with Electric Vehicles from Oxford Brookes University and a Bachelor's degree in Mechanical Engineering from MLR Institute of Technology."
+    ],
+    "contact_info": [
+        "You can reach me at bantumaruthiprasad@gmail.com or on LinkedIn at https://www.linkedin.com/in/maruthi-prasad-bantu-48b290184/.",
+        "Feel free to email me at bantumaruthiprasad@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/maruthi-prasad-bantu-48b290184/."
+    ],
+    "education": [
+        {
+            "degree": "MASTER OF SCIENCE in Automotive Engineering with Electric Vehicles",
+            "institution": "Oxford Brookes University",
+            "period": "09/2022 - 09/2023",
+            "location": "Oxford, United Kingdom",
+            "grade": "Merit"
+        },
+        {
+            "degree": "BACHELOR OF SCIENCE in Mechanical Engineering",
+            "institution": "MLR Institute of Technology",
+            "period": "08/2017 - 05/2021",
+            "location": "Hyderabad, Telangana, India",
+            "grade": "First Class"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Composite Bone Fracture Fixation Plate",
+            "period": "05/2023 - 09/2023",
+            "institution": "Oxford Brookes",
+            "details": [
+                "Initiated a high-impact initiative that achieved a 13% reduction in predicted bone plate failure rates through finite element analysis (FEA) in Ansys.",
+                "Designed an innovative composite plate with 4mm reduced thickness in SolidWorks with virtual screws (4mm), promising to revolutionize orthopaedic surgeries and enhance patient recovery outcomes.",
+                "Presented detailed project updates and outcomes with 60 pages report to supervisor, ensuring clarity and alignment; presented a 10 slides PPT presentation to external professors, highlighting project significance and potential impact on academic community.",
+                "Developed sophisticated fracture bone models, enabling surgeons to virtually simulate fixation scenarios and optimize surgical planning for improved procedural efficiency.",
+                "The analysis considered a wide range of impact velocities (10 m/s to representing accident severities), ensuring the plate's efficacy in real-world situations.",
+                "Conducted validation against Kabin 2021 data, showcasing a 95% correlation, strengthening FEA model's precision. Carbon Fiber displayed a notable 30% decrease in bone stress compared to conventional materials, signalling improved bone healing advancements."
+            ]
+        },
+        {
+            "title": "Composite Design and Crash Impact Analysis on EV Battery Trays",
+            "period": "03/2023 - 05/2023",
+            "institution": "Oxford Brookes",
+            "details": [
+                "Conducted load and laminate analyses, achieving a lightweight battery tray (max 110 kg) with optimal composite materials for superior strength.",
+                "Engineered crashworthy battery tray in SolidWorks, integrating crashworthiness and executing DFMEA to ensure resilience against impacts at 7 m/s.",
+                "Evaluated safety at high speeds (13.86 m/s) through LS-Dyna simulations, identifying enhancements by defining material properties and configuring high-speed crash scenarios."
+            ]
+        },
+        {
+            "title": "Noise, Vibration and Harness Analysis",
+            "period": "09/2022 - 11/2022",
+            "institution": "Oxford Brookes",
+            "details": [
+                "Designed and developed a tuned vibration absorber for a beam, reducing flexural vibrations by implementing an effective design and achieving the target frequency of 63Hz for optimal vibration reduction, utilizing analytical calculations and FE-based numerical analysis.",
+                "Conducted acoustic modal analysis of a car cavity, identifying weak points in the vehicle design and absorption materials for noise reduction, leading to improved driving comfort, and employed ANSYS software for accurate FE modelling and analysis.",
+                "Performed FE-based assembly analysis to validate the effectiveness of the tuned vibration absorber, verifying the reduction of vibrations and improved stability of the primary beam, and utilized harmonic analysis to validate the absorber's performance, employing ANSYS Workbench for precise FE analysis and assembly validation."
+            ]
+        },
+        {
+            "title": "Unveiling Efficiency Gains and Emission Reductions",
+            "period": "03/2023 - 05/2023",
+            "institution": "Oxford Brookes",
+            "details": [
+                "Unveiled real-world efficiency gains: Generated a comprehensive drive cycle simulating a diverse 12+ km route with varied road types to compare fuel economy and emissions with standard schedules.",
+                "Identified optimization strategies: Analyzed key parameters like engine operating modes, battery usage patterns, and regenerative braking efficiency to propose strategies for enhancing fuel economy and reducing emissions in hybrid powertrains.",
+                "Validated performance in a virtual environment: Evaluated an electric hybrid powertrain model using GT-Power software to validate the effectiveness of proposed strategies in a controlled virtual environment."
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "title": "CAE Engineer",
+            "company": "Simulations Lab India",
+            "period": "05/2022 - 07/2022",
+            "location": "India",
+            "details": [
+                "Conducted detailed Finite Element Analysis (FEA) that resulted in a 20% improvement in wing flap efficiency, aligning with the requisite experience in chassis structural components analysis.",
+                "Collaborated with a 5-member multi-disciplinary team to push the boundaries of simulation technology, mirroring the collaborative ethos sought for the CAE Engineer role.",
+                "Orchestrated the production of daily Excel reports analysing simulation outcomes, generating 60 comprehensive reports over a 60-day internship; facilitated data-driven decision-making and performance tracking for the team."
+            ]
+        },
+        {
+            "title": "Intern",
+            "company": "Tata Group",
+            "period": "02/2019 - 02/2019",
+            "location": "Hyderabad, Telangana, India",
+            "details": [
+                "As a PLM intern, gained hands-on experience in product lifecycle management.",
+                "Assisted in creating and maintaining the product database, ensuring accurate and accessible information.",
+                "Utilized PLM software tools to streamline processes and improve efficiency.",
+                "Enhanced understanding of product lifecycle and honed skills in data management, collaboration, and software utilization."
+            ]
+        }
+    ],
+    "skills": [
+        "Finite Element Analysis",
+        "Computer - Aided Design",
+        "Solid Works",
+        "Crash Impact",
+        "LS-Dyna",
+        "Thermal Analysis",
+        "GD & T",
+        "Matlab",
+        "Simulink",
+        "NVH (Noise, Vibrations, and Harness)",
+        "Quick Learning",
+        "Attention to detail"
+    ],
+    "certifications": [
+        "CFD (Airflow around spoiler, through centrifugal pump)",
+        "SolidWorks",
+        "Maltlab Onramp",
+        "HTML and CSS Crash Course",
+        "Python Programming",
+        "Simulink onramp",
+        "Creo - Udemy Learning"
+    ],
+    "hobbies": [
+        "Reading books",
+        "Playing football",
+        "Playing guitar",
+        "Exploring and learning new software tools and technologies",
+        "Traveling",
+        "Listening to podcasts on crime, history, and real life stories"
+    ],
+    "free_time_activities": [
+        "I love hitting gym",
+        "Playing cricket",
+        "Love playing PC games",
+        "Long distance cycling",
+        "Listening to Music, and Podcasts"
+    ],
+    "accomplishments": [
+        "Designed a composite bone plate (using Carbon Fiber) that reduced failure rates by 13% and bone stress by 30%, improving surgery outcomes.",
+        "Led a team that improved battery crash safety by 35% through innovative materials and design.", 
+        "3rd place in SAE competition.",
+        "Developed an AI Voice Assistant."
+    ],
+    "summary": "Master's graduate in Automotive Engineering, specializing in electric vehicles, seeking to apply my in-depth knowledge and hands-on experience in crash impact modelling (LS-DYNA), NVH reduction (ANSYS), and fuel optimization (GT Suite) to real-world challenges. Proven ability to analyze complex engineering systems, optimize designs, and deliver innovative solutions. Passionate about advancing vehicle safety, performance, and sustainability in the burgeoning electric vehicle industry.",
+    "additional_info": {
+        "current_time": "The current time is ",
+        "favorite_food": "My favorite food is Biryani.",
+        "favorite_place": "My favorite place is the Temples."
+    }
+}
