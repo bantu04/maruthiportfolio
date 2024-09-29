@@ -41,6 +41,12 @@ header {
 	max-width: 1440px;
 	margin: auto;
 	border-bottom: 1px solid rgba(0,0,0,0.1);
+	
+	/* Make header sticky */
+	position: sticky;  /* Make header sticky */
+	top: 0;            /* Stick it to the top of the viewport */
+	background-color: white; /* Add a background color */
+	z-index: 1000;    /* Ensure it's on top of other content */
 
 	.logo-holder {
 		display: flex;
