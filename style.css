@@ -414,10 +414,11 @@ h3 {
 
 .work-experience {
 	.jobs {
-		display:flex;
-		gap:30px;
-		@media(max-width:1024px){
-			flex-direction:column;
+		display: grid;
+		grid-gap: 30px;
+		grid-template-columns: repeat(2, 1fr);
+		@media (max-width: 820px) {
+			grid-template-columns: 1fr;
 		}
 		article {
 			background-color: var(--base-100);
